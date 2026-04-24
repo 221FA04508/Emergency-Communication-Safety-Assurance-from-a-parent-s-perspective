@@ -46,7 +46,7 @@ If you find this project useful or impactful, please consider ⭐ starring the r
 
 | Dashboard        | Alert System     |
 | ---------------- | ---------------- |
-| (Add Screenshot) | (Add Screenshot) |
+| (Assessts.png) | (Add Screenshot) |
 
 ---
 
