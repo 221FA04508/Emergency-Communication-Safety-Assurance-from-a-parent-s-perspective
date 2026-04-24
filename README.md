@@ -46,7 +46,7 @@ If you find this project useful or impactful, please consider ⭐ starring the r
 
 | Dashboard        | Alert System     |
 | ---------------- | ---------------- |
-| (Assessts.png) | (Dashboard.png) |
+| (https://github.com/221FA04508/Emergency-Communication-Safety-Assurance-from-a-parent-s-perspective/blob/30e76c9c29a3af2428f55410b14e94a448dc6516/Dashboard.png) | (Dashboard.png) |
 
 ---
 
