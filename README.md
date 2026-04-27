@@ -46,7 +46,7 @@ If you find this project useful or impactful, please consider ⭐ starring the r
 
 | Dashboard        | Alert System     |
 | ---------------- | ---------------- |
-| ![preview1](https://github.com/221FA04508/Emergency-Communication-Safety-Assurance-from-a-parent-s-perspective/blob/30e76c9c29a3af2428f55410b14e94a448dc6516/Dashboard.png)| (Dashboard.png) |
+| ![preview1](https://github.com/221FA04508/Emergency-Communication-Safety-Assurance-from-a-parent-s-perspective/blob/30e76c9c29a3af2428f55410b14e94a448dc6516/Dashboard.png)|  ![preview1](https://github.com/221FA04508/Emergency-Communication-Safety-Assurance-from-a-parent-s-perspective/blob/4943f3410da78b245ccd6b3472db7ca3a20e91cf/Assessts.png) |
 
 ---
 
